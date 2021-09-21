@@ -26,9 +26,8 @@ print(f"\nUang yang harus dibayar oleh pembeli adalah Rp.{bayar}")
 #           ==========NOMOR 3==========
 
 # TIPE DATA BOOLEAN
-angka = 13
-hasil = angka > 7
-print(hasil)
+data = True
+print(data)
 
 # TIPE DATA STRING
 kalimat = "Anwar kuliah di UBSI Kampus Tegal"
